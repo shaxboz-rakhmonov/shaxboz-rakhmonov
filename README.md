@@ -21,6 +21,13 @@ I work deeply with **iCafe** (iCafeCloud), the management software used by gamin
 
 Running my own gaming club on iCafe, so every change is tested on real PCs.
 
+**Three-monitor stream room: one themed window, login on the main screen**
+![iCafe stream room theme](assets/icafe-stream-room.jpg)
+
+**Per-group lobby themes: Dota 2 and CS2 halls**
+
+<img src="assets/icafe-dota-group.jpg" width="49%" alt="iCafe Dota 2 group theme"> <img src="assets/icafe-cs2-group.jpg" width="49%" alt="iCafe CS2 group theme">
+
 ## Stack
 `TypeScript` `Next.js` `React` `Node.js` `Python` `aiogram` `PostgreSQL` `SQLite` `Swift` `Docker` `Linux`
 
