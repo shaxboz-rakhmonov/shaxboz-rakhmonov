@@ -4,13 +4,6 @@
 
 I build working software for small and mid-size businesses: from the customer app to the admin panel and the database behind it.
 
-## What I build
-- 📱 **Mobile apps**: iOS and Android
-- 🌐 **Web**: Next.js / React sites, dashboards, admin panels
-- 🤖 **Telegram bots** with orders, payments and notifications
-- 🧠 **AI agents** for business workflows
-- 🗄️ **Backends**: Node.js, Python, PostgreSQL
-
 ## 🎮 iCafe: full customization
 I work deeply with **iCafe** (iCafeCloud), the management software used by gaming clubs and internet cafes, and I can customize it however a club needs:
 - fully custom **themes** for the login / lock screen and lobby (colors, fonts, backgrounds, animations, club branding)
@@ -34,6 +27,13 @@ Running my own gaming club on iCafe, so every change is tested on real PCs.
 
 **Stream room**: three monitors as one themed window: Juggernaut side screen, Dota-style friends panel and login on the main screen
 ![iCafe stream room theme](assets/icafe-stream-room.jpg)
+
+## What I build
+- 📱 **Mobile apps**: iOS and Android
+- 🌐 **Web**: Next.js / React sites, dashboards, admin panels
+- 🤖 **Telegram bots** with orders, payments and notifications
+- 🧠 **AI agents** for business workflows
+- 🗄️ **Backends**: Node.js, Python, PostgreSQL
 
 ## Stack
 `TypeScript` `Next.js` `React` `Node.js` `Python` `aiogram` `PostgreSQL` `SQLite` `Swift` `Docker` `Linux`
