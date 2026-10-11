@@ -23,16 +23,16 @@ Running my own gaming club on iCafe, so every change is tested on real PCs.
 
 ### Theme gallery (real club screens)
 
-**CS2 hall**: lobby with menu, promo panels with QR codes, friends list and an animated character with speech bubble
+**CS2 hall**: login panel, lobby menu, promo panels with QR codes, friends list and an animated character
 ![iCafe CS2 theme](assets/icafe-cs2.jpg)
 
-**Dota 2 hall**: game-client style top menu, friends bar and mobile-app promo
+**Dota 2 hall**: Dota-client style top menu, login panel, friends bar and mobile-app promo
 ![iCafe Dota 2 theme](assets/icafe-dota.jpg)
 
-**PUBG hall**: PUBG-style navigation, bottom bar, task card and speech bubble over a custom background
+**PUBG hall**: PUBG-style navigation, login panel, bottom bar and task card over a custom background
 ![iCafe PUBG theme](assets/icafe-pubg.jpg)
 
-**Stream room**: three monitors working as one themed window, login on the main screen
+**Stream room**: three monitors as one themed window: Juggernaut side screen, Dota-style friends panel and login on the main screen
 ![iCafe stream room theme](assets/icafe-stream-room.jpg)
 
 ## Stack
