@@ -18,12 +18,10 @@ I build fully custom themes for **iCafe** gaming-club software: login screen, lo
 ## Stack
 `TypeScript` `Next.js` `React` `Node.js` `Python` `aiogram` `PostgreSQL` `SQLite` `Swift` `Docker` `Linux`
 
-## Open-source starters
+## Open source
 | Repo | What it is |
 |---|---|
-| [telegram-order-bot](https://github.com/shaxboz-rakhmonov/telegram-order-bot) | Telegram shop bot: catalog, orders, admin notifications |
-| [nextjs-admin-starter](https://github.com/shaxboz-rakhmonov/nextjs-admin-starter) | Next.js 14 admin panel: signed-cookie login, protected API, CRUD |
-| [ai-agent-starter](https://github.com/shaxboz-rakhmonov/ai-agent-starter) | AI support agent in Python: Claude tool-use loop |
+| [windows-dynamic-island](https://github.com/shaxboz-rakhmonov/windows-dynamic-island) | Dynamic Island for Windows: music controls, calendar, weather, system stats in an animated pill |
 | [icafe-themes](https://github.com/shaxboz-rakhmonov/icafe-themes) | Custom iCafe themes for gaming clubs |
 
 ## Work with me
